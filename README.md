@@ -3,7 +3,7 @@
 Проект выполнил: Сергей Солоджук
 
 ## Использованные технологии
--Html
--CSS
--Normalize.css
--SVG Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprites
